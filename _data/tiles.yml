@@ -1,14 +1,10 @@
-- title: Getting Started
-  description: Learn how to use this theme
-  url: getting-started
+- title: Notícias
+  description: Tudo sobre linux.
+  url: noticias
+  icon: linux
+
+- title: Cursos gratuitos
+  description: PDF, Video Aulas e muito mais.
+  url: gratis
   icon: book
-
-- title: Google
-  description: Theme Category Example
-  url: google
-  icon: google
-
-- title: jQuery
-  description: API Documentation
-  url: jquery
-  icon: dollar
+  

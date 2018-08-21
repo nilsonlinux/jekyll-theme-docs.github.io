@@ -39,7 +39,7 @@ $(document).ready(function() {
             }).done(function(a){
                 alert
                     .addClass('alert-success')
-                    .html('Message successfull sent.')
+                    .html('Sua mensagem foi enviada.')
                     .show();
                 $('#contact_form input, #contact_form textarea').each(function(){
                     $(this).val('');
@@ -47,7 +47,7 @@ $(document).ready(function() {
             }).fail(function() {
                 alert
                     .addClass('alert-danger')
-                    .html('Message could not be sent now. Send an email to {{ site.email }}.')
+                    .html('A mensagem não pôde ser enviada agora. Envie um email para {{ site.email }}.')
                     .show();
             });
         }

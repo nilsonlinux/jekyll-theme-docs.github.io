@@ -164,3 +164,18 @@ h1:hover .header-link, h2:hover .header-link, h3:hover .header-link, h4:hover .h
 .pagination a:hover {
     cursor: pointer;
 }
+
+.circle {
+  background-color: #aaa;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  position: relative;
+}
+
+.circle img {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
