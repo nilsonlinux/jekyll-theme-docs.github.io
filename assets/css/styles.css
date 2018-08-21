@@ -182,3 +182,15 @@ h1:hover .header-link, h2:hover .header-link, h3:hover .header-link, h4:hover .h
 
 ///////////////////////Nilsonlinux
 
+img.acende {
+opacity: 0.9; 
+-moz-opacity: 0.9;
+Filter: Alpha(Opacity=90)
+}
+
+
+img.acende:hover {
+opacity: 1.0; 
+-moz-opacity: 1.0;
+Filter: Alpha(Opacity=100)
+}
