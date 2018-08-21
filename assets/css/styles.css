@@ -218,3 +218,55 @@ Filter: Alpha(Opacity=100)
     background-color: #111;
     border-color: #bbb;
 }
+
+.btn-success {
+    border-color: #bbb;
+    color: #bbb;
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success:active:focus {
+    color: #47bf15;
+    border-color: #47bf15;
+    background: transparent;
+}
+
+.btn-success:focus,
+.btn-success:active,
+.btn-success:active:focus {
+    background: #141516;
+}
+
+.btn-success.disabled:hover {
+    color: #bbb;
+    background: transparent;
+    border-color: #bbb;
+}
+
+.btn-danger {
+    border-color: #bbb;
+    color: #bbb;
+}
+
+.btn-danger:hover,
+.btn-danger:focus,
+.btn-danger:active,
+.btn-danger:active:focus {
+    color: #e61414;
+    border-color: #e61414;
+    background: transparent;
+}
+
+.btn-danger:focus,
+.btn-danger:active,
+.btn-danger:active:focus {
+    background: #141516;
+}
+
+.btn-danger.disabled:hover {
+    color: #bbb;
+    background: transparent;
+    border-color: #bbb;
+}
