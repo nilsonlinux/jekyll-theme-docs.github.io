@@ -182,27 +182,4 @@ h1:hover .header-link, h2:hover .header-link, h3:hover .header-link, h4:hover .h
 
 ///////////////////////Nilsonlinux
 
-.tooltip {
-    font-size: 14px;
-}
 
-.tooltip-inner {
-    border: 1px solid #f41249;
-    padding: 10px;
-}
-
-.tooltip.top .tooltip-arrow {
-    border-top-color: #f41249;
-}
-
-.tooltip.right .tooltip-arrow {
-    border-right-color: #f41249;
-}
-
-.tooltip.bottom .tooltip-arrow {
-    border-bottom-color: #f41249;
-}
-
-.tooltip.left .tooltip-arrow {
-    border-left-color: #f41249;
-}
