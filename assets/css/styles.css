@@ -179,3 +179,25 @@ h1:hover .header-link, h2:hover .header-link, h3:hover .header-link, h4:hover .h
   bottom: 0;
   width: 100%;
 }
+
+///////////////////////Nilsonlinux
+
+.darken {
+    display: inline-block;
+    background: black;
+    padding: 0;
+}
+
+
+.darken:hover img {
+    opacity: 0.7;      
+}
+.darken img {
+    display: block;
+    
+    -webkit-transition: all 0.5s linear;
+       -moz-transition: all 0.5s linear;
+        -ms-transition: all 0.5s linear;
+         -o-transition: all 0.5s linear;
+            transition: all 0.5s linear;
+}
