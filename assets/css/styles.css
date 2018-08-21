@@ -195,13 +195,26 @@ opacity: 1.0;
 Filter: Alpha(Opacity=100)
 }
 //////////////////Botão
-.btn {
-    padding: 10px 20px;
-    border-radius: 20px;
-    font-size: .9em;
-    font-weight: bold;
-    letter-spacing: 1px;
-    -webkit-font-smoothing: antialiased;
-    text-align: center;
-    background: transparent;
+.btn-default {
+    border-color: #bbb;
+    color: #bbb;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default:active:focus,
+.btn-default:active {
+    color: #00a4e2;
+    border-color: #00a4e2;
+    background: #141516;
+}
+
+.btn-default.active,
+.open>.dropdown-toggle.btn-default,
+.btn-default.active:hover,
+.open>.dropdown-toggle.btn-default:hover {
+    color: #bbb;
+    background-color: #111;
+    border-color: #bbb;
 }
