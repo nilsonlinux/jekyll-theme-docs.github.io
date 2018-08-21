@@ -20,4 +20,21 @@ layout: default
 <a class="btn" href="{{ site.google-plus }}">
 				<i class="fa fa-google-plus fa-3x"></i>
 	</div>
+	
+	
+	       <p class="contact">
+            ,Me siga nas rede sociais: {% if site.github_username %}
+            <a href="https://github.com/{{site.github_username}}" title="GitHub"><i class="fa fa-github" aria-hidden="true"></i></a> {% endif %} {% if site.email %}
+            <a href="mailto:{{site.email}}" title="email"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> {% endif %} {% if site.google-plus_username %}
+            <a href="http://googleplus.com/{{site.google-plus_username}}" title="Google Plus"><i class="fa fa-google-plus" aria-hidden="true"></i></a> {% endif %} {% if site.zhihu_username %}
+            <a href="https://www.zhihu.com/people/{{site.zhihu_username}}" title="Zhihu"><i class="iconfont icon-daoruzhihu"></i></a> {% endif %} {% if site.twitter_username %}
+            <a href="https://twitter.com/{{site.twitter_username}}" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a> {% endif %} {% if site.facebook_username %}
+            <a href="https://www.facebook.com/{{site.facebook_username}}" title="Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a> {% endif %}  {% if site.linkedIn_username %}
+            <a href="https://www.linkedin.com/in/{{site.linkedIn_username}}" title="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a> {% endif %} {% if site.dribbble_username %}
+            <a href=" https://dribbble.com/{{site.dribbble_username}}" title="Dribbble"><i class="fa fa-dribbble" aria-hidden="true"></i></a> {% endif %}
+        </p>
+        <p>
+            O Número total de visitas até hoje é de <span id="busuanzi_value_site_pv"></span> ,e o número total de visitantes no site foi de <span id="busuanzi_value_site_uv"></span>,o volume total de leitura deste artigo foi de <span id="busuanzi_value_page_pv"></span>
+        </p>
+	
 </section>
