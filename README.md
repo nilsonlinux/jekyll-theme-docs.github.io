@@ -2,8 +2,9 @@
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-docs.svg)](https://badge.fury.io/rb/jekyll-theme-docs)
 
-Bootstrap theme to host documentation. SEO optimized, Google CSE, Formspree and Disqus comments.
-Minha contribuição para este projeeto. [Nilsonlinux](https://nilsonlinux.github.io/).
+Bootstrap theme to host documentation. SEO optimized, Google CSE, Formspree and Disqus comments.  
+
+Minha contribuição para este projeto. [Nilsonlinux](https://nilsonlinux.github.io/).
 
 
 ## Blog/ Site Pesssoal baseado em 
