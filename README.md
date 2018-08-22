@@ -5,7 +5,7 @@
 Bootstrap theme to host documentation. SEO optimized, Google CSE, Formspree and Disqus comments.
 
 ## Blog/ Site Pesssoal baseado em 
-jekyll-theme-docs.github.io
+jekyll-theme-docs [MIT License](https://github.com/jekyll-theme-docs/jekyll-theme-docs.github.io).
 ```
 Nilsonlinux web developer.
 ```
