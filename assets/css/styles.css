@@ -191,13 +191,13 @@ body {
 }
 
 /* Color Variables */
-$color-codepen: #000;
-$color-github: #4284c0;
-$color-twitter: #2b97f1;
-$color-dribbble: #ef5a92;
-$color-instagram: #527fa6;
-$color-linkedin: #006599;
-$color-facebook: #3b5a9b;
+$color-codepen: #000000
+$color-github: #4284c0
+$color-twitter: #2b97f1
+$color-dribbble: #ef5a92
+$color-instagram: #527fa6
+$color-linkedin: #006599
+$color-facebook: #3b5a9b
 
 /* Social Icon Mixin */
 @mixin social-icon($color) {
