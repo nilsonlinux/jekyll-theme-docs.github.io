@@ -4,7 +4,7 @@
 
 Bootstrap theme to host documentation. SEO optimized, Google CSE, Formspree and Disqus comments.  
 
-Minha contribuição para este projeto. [Nilsonlinux](https://nilsonlinux.github.io/).
+Minha contribuição para este projeto está aqui. [Nilsonlinux](https://nilsonlinux.github.io/).
 
 
 ## Blog/ Site Pesssoal baseado em 
