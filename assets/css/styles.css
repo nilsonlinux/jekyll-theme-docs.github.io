@@ -182,3 +182,11 @@ h1:hover .header-link, h2:hover .header-link, h3:hover .header-link, h4:hover .h
 
 ///////////////////////Nilsonlinux
 
+.container {
+    width: 95%;
+    margin: auto;
+}
+.pure-g figure {
+    position: relative;
+    max-width: 500px;
+}
