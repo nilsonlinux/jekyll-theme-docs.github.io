@@ -2375,11 +2375,3 @@ if (typeof jQuery === 'undefined') {
   })
 
 }(jQuery);
-
-//Nilsonlinux
-
-<script>
-$(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip(); 
-});
-</script>
