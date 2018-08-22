@@ -1,7 +1,7 @@
 ---
 title: Nilsonlinux Postagens
 ---
-	<div class="container text-center">
+
 <section id="archive">
   <h3>Notícias deste ano</h3>
   {%for post in site.posts %}
