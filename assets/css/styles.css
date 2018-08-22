@@ -16,7 +16,7 @@ body {
 }
 
 .search-section {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid 3651d8;
     padding: 25px 0 80px;
     background: #222222;
     margin-top: -20px;
@@ -41,7 +41,7 @@ body {
     padding: 15px;
     text-align: center;
     text-decoration: none;
-    border: 1px solid #ddd;
+    border: 1px solid 3651d8;
     border-radius: 4px;
     background-color: ##222222;
     -webkit-box-shadow: 0 1px 1px #222222;
@@ -67,7 +67,7 @@ body {
 }
 
 footer {
-    border-top: 1px solid #ddd;
+    border-top: 1px solid 3651d8;
     padding: 40px 0;
     background: #222222;
 }
