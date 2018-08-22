@@ -3,7 +3,7 @@ title: Nilsonlinux Postagens
 ---
 
 <section id="archive">
-  <h3>>>Notícias deste ano</h3>
+  <h3>>> Notícias deste ano</h3>
   {%for post in site.posts %}
     {% unless post.next %}
       <ul class="this">
@@ -12,7 +12,7 @@ title: Nilsonlinux Postagens
         {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
         {% if year != nyear %}
       </ul>
-      <h3>>>{{ post.date | date: '%Y' }}</h3>
+      <h3>>> {{ post.date | date: '%Y' }}</h3>
       <ul class="past">
       {% endif %}
     {% endunless %}
