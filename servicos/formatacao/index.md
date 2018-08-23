@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Formatação"
 ---
 <div class="col s12">
