@@ -12,4 +12,4 @@ author:
 - [Guia com mais de 500 comandos do Linux](https://drive.google.com/file/d/0B4LMjRXJ7wzlYVBMY0l0cVNCeGc/view?usp=sharing) - (Explicado).  
 - [Apostilas Categoria: Linux](https://www.apostilando.com/sessao/16/linux) - (76 Apostilas). 
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.FuHL9NVBXAc %}
