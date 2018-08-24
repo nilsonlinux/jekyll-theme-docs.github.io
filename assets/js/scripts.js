@@ -237,12 +237,3 @@ $(document).ready(function() {
 
 ///Nilsonlinux
 
-<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-<script>
-  var OneSignal = window.OneSignal || [];
-  OneSignal.push(function() {
-    OneSignal.init({
-      appId: "63e2f480-235e-444b-ab23-c2dc7dc731cc",
-    });
-  });
-</script>
