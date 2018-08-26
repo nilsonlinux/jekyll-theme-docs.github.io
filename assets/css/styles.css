@@ -41,7 +41,7 @@ body {
     padding: 15px;
     text-align: center;
     text-decoration: none;
-    border: 1px solid #ddd;
+    border: 1px solid #000000;
     border-radius: 4px;
     background-color: #f9f9f9;
     -webkit-box-shadow: 0 1px 1px #0001a;
@@ -166,7 +166,7 @@ h1:hover .header-link, h2:hover .header-link, h3:hover .header-link, h4:hover .h
 }
 
 .circle {
-  background-color: #aaa;
+  background-color: #000000;
   border-radius: 50%;
   width: 150px;
   height: 150px;
