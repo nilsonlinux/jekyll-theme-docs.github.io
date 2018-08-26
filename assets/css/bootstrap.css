@@ -3416,7 +3416,7 @@ fieldset[disabled] .btn-link {
 .btn-link:hover,
 .btn-link:focus,
 .btn-link:active {
-  border-color: transparent;
+  border-color: #000000;
 }
 .btn-link:hover,
 .btn-link:focus {
