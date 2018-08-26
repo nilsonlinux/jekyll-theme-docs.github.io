@@ -1,9 +1,5 @@
 ---
-title: Material Livre
-description: Especialmente pra você.
-keywords: Livre, Gratuito, Open-Source
-author:
-  name: Nilsonlinux
+title:  Material Livre
 ---
 
 
