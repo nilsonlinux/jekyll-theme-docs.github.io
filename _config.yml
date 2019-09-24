@@ -38,3 +38,5 @@ defaults:
       layout: post
       permalink: /:categories/:title
 
+
+theme: jekyll-theme-cayman
