@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Definindo aplicativos padrão no Arch Linux"
+title: "Personalização Solus Mate com Polybar"
 ---
 
 ### Usando o xdg-mime:
